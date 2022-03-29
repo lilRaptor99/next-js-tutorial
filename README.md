@@ -15,7 +15,7 @@
 - Start the development server with
 
   ```
-  npm npm run dev
+  npm run dev
   ```
 
 - Visit your app at http://localhost:3000
